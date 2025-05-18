@@ -4,6 +4,6 @@
     <title>Welcome Page</title>
 </head>
 <body>
-    <p>Halo dari Admin!</p>
+    <p>Halo dari Contributor!</p>
 </body>
 </html>
