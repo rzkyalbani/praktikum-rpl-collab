@@ -7,5 +7,6 @@
     <h1>Welcome to Laravel!</h1>
     <p>Welcome again from views</p>
     <p>Halo dari Contributor!</p>
+    <p>Halo dari Admin!</p>
 </body>
 </html>
